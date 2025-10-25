@@ -114,6 +114,13 @@ Your support makes **JavaScript Games for Beginners** better every day. 💪
                     <sub><b>LakshmiSowmya04</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/harsh13713">
+                    <img src="https://avatars.githubusercontent.com/u/168455999?v=4" width="100;" alt="harsh13713"/>
+                    <br />
+                    <sub><b>harsh13713</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
